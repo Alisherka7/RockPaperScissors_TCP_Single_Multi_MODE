@@ -14,7 +14,6 @@
 
 
 ### Built with:
-- Design Template: Figma
 - GUI: Java Swing
 - Language: Java
 - Connection: TCP
